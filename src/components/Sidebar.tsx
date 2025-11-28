@@ -14,7 +14,7 @@ const Sidebar = () => {
             onClick={() => scrollToSection("main")}
             className="text-xl font-medium hover:no-underline"
           >
-            yourname.com
+            aggelosntousis.com
           </button>
         </div>
 
@@ -23,7 +23,7 @@ const Sidebar = () => {
             onClick={() => scrollToSection("main")}
             className="block text-foreground/70 hover:text-foreground hover:no-underline"
           >
-            Welcome to my corner of the internet!
+            Enjoy.
           </button>
           <button
             onClick={() => scrollToSection("about")}

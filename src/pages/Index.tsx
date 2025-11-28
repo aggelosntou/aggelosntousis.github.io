@@ -7,24 +7,22 @@ const Index = () => {
       
       {/* Mobile header */}
       <div className="lg:hidden border-b border-border p-4">
-        <h1 className="text-xl font-medium">yourname.com</h1>
+        <h1 className="text-xl font-medium">Aggelos Ntousis</h1>
       </div>
 
       {/* Main content */}
       <main className="lg:ml-64 max-w-3xl mx-auto p-6 lg:p-12">
         <section id="main" className="mb-16">
           <h1 className="text-3xl mb-4">
-            Welcome to <em>my</em> corner of the internet!
+            This is a highly controversial space. I need anwears or good questions. 
           </h1>
           
           <p className="mb-4">
-            Greetings fellow traveler! Salutations! Callooh! Callay!
+            TGK ATH 1312 KP CITY
           </p>
           
           <p className="mb-4">
-            My name is [Your Name]. I'm a math major interested in machine learning.
-            I love working on hard problems with great people. My goal is to contribute 
-            to groundbreaking research at organizations like Google DeepMind or NASA.
+            Im Aggelos bitch. DeepLearning, B2B SaaS and Founder at 19. Accepted to YC 2025 Batch.
           </p>
           
           <p className="mb-6">
@@ -41,7 +39,7 @@ const Index = () => {
                     Aug 2024 - Present
                   </td>
                   <td className="py-3">
-                    Pursuing <strong>Bachelor's in Mathematics</strong> with a focus on machine learning applications
+                    Pursuing <strong>Bachelor's in Mathematics</strong> at NKUA. Useless fkin thing I believe. But what to do lets leave the college experience. 
                   </td>
                 </tr>
                 <tr className="border-t border-border">
@@ -49,7 +47,7 @@ const Index = () => {
                     Sep 2024 - Present
                   </td>
                   <td className="py-3">
-                    Working on <strong>ML research project</strong> involving neural network optimization
+                    Working on <strong>Math Research</strong> involving sampling algorithms. Also doing shitty computervision on satellite data. 
                   </td>
                 </tr>
               </tbody>
@@ -102,21 +100,18 @@ const Index = () => {
           <h2 className="text-2xl mb-4">Life</h2>
           
           <p className="mb-4">
-            I'm passionate about using mathematics to solve real-world problems through AI. 
-            My studies focus on the intersection of pure mathematics and machine learning, 
-            exploring areas like optimization algorithms, statistical learning, and neural network theory.
+            Is this AI age really that important or is it a buble? I have many questions to what is really work, what I want to do with my life or are the things really that dramatic career wise.
           </p>
           
           <p className="mb-4">
-            When I'm not buried in textbooks or coding, you might find me thinking about space exploration, 
-            reading research papers, or working on personal ML projects.
+            Another question is if it is really possible to work at NASA or be Elon Musk or another tech figure. What does it take to become someone like that?
           </p>
 
           <div className="mt-8">
             <h3 className="text-lg font-semibold mb-4">Recent Announcements</h3>
             <ul className="space-y-2 list-disc list-inside">
-              <li>Accepted to present research at upcoming ML conference (2024)</li>
-              <li>Started new research collaboration on deep learning theory (2024)</li>
+              <li>Accepted to ArchimedesAI for research on Langevin Sampling Algorithms</li>
+              <li>Accepted for an internship in Demokritos for image segmentation </li>
             </ul>
           </div>
         </section>
@@ -125,18 +120,18 @@ const Index = () => {
           <h2 className="text-2xl mb-4">Contact</h2>
           
           <p className="mb-4">
-            Interested in collaboration or have questions? Feel free to reach out:
+            Ask me anything.
           </p>
           
           <ul className="space-y-2">
             <li>
-              <strong>Email:</strong> <a href="mailto:your.email@example.com">your.email@example.com</a>
+              <strong>Email:</strong> <a href="mailto:your.email@example.com">aggelosntousis02@gmail.com</a>
             </li>
             <li>
-              <strong>GitHub:</strong> <a href="https://github.com/yourusername" target="_blank" rel="noopener noreferrer">github.com/yourusername</a>
+              <strong>GitHub:</strong> <a href="https://github.com/aggelosntou" target="_blank" rel="noopener noreferrer">github.com/aggelosntou</a>
             </li>
             <li>
-              <strong>LinkedIn:</strong> <a href="https://linkedin.com/in/yourprofile" target="_blank" rel="noopener noreferrer">linkedin.com/in/yourprofile</a>
+              <strong>LinkedIn:</strong> <a href="www.linkedin.com/in/aggelosntousis" target="_blank" rel="noopener noreferrer">www.linkedin.com/in/aggelosntousis</a>
             </li>
           </ul>
         </section>
