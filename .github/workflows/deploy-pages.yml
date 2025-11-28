@@ -22,8 +22,8 @@ jobs:
 
       - name: Build
         env:
-          # Use repository name as the base path for GitHub Pages
-          VITE_BASE: '/aggelosntousis.com/'
+          # Relative base so assets load from any Pages path
+          VITE_BASE: './'
         run: npm run build
 
       - name: Add SPA fallback
